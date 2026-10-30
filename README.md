@@ -4,14 +4,14 @@ Personal portfolio of **Rana Muhammad Umair Younus**, Full Stack Lead Laravel De
 
 **Live site:** https://r-jee.github.io/Portfolio/
 
-![Banner](assets/og-banner.png)
+![Banner](assets/banner-2026.png)
 
 ## What's here
 
 | File | Purpose |
 | --- | --- |
 | `index.html` | The whole site: one self-contained page (styles, script and photo embedded) |
-| `assets/og-banner.png` | Social preview image used when the link is shared |
+| `assets/banner-2026.png` | Social preview image used when the link is shared |
 | `assets/favicon.png` | Browser tab icon |
 | `assets/profile.png` | Profile photo |
 | `.nojekyll` | Tells GitHub Pages to serve the files as-is |
